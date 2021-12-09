@@ -11,9 +11,17 @@ The dataset are released for scientific use.
 ## Details
 Both preferences and reachability dataset are released in `comma-separated values` (CSV) format and include the `handedness` (self-reported) as well as hands measurements (`circumference`, `length` and `span` in millimeters) of the participants.
 
+Refer to the figures of the paper to know the codes of the keys (R1 to Y16).
+
 ### Preferences
 ```preference.csv```
 
+Code 1 to 10 are mapped to the little finger from the left hand to the little finger of the right hand.
 
 ### Reachability
 ```reachability.csv```
+
+Each finger is coded with the initial of the corresponding hand followed by that of the finger (for example, LT for left thumb).
+
+## TODO
+Add pictures, more information and proof-read the overall description.
