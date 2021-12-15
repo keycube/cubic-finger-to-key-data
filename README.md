@@ -20,6 +20,7 @@ Both preferences and reachability dataset are released in `comma-separated value
 ### Preferences
 [preferences.csv](preferences.csv)
 
+Preferred finger for each key (80).
 Code `1` to `10` are mapped to the little finger from the left hand to the little finger of the right hand.
 
 ![Alt text](img/finger_preference_code.png?raw=true "Drawing of the finger preference code")
@@ -27,6 +28,7 @@ Code `1` to `10` are mapped to the little finger from the left hand to the littl
 ### Reachability
 [reachability.csv](reachability.csv)
 
+Reachability score of each finger to each key (10 x 80).
 Each finger is coded with the initial of the corresponding hand followed by that of the finger (for example, `LT` for left thumb).
 Reachability score:
 
