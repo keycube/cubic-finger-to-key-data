@@ -15,7 +15,7 @@ Both preferences and reachability dataset are released in `comma-separated value
 
 ![Alt text](img/hand_measurement.png?raw=true "Hand measurement process")
 
-Refer to the figures of the paper to know the codes of the keys (R1 to Y16).
+**Refer to the figures of the paper to know the codes of the keys (R1 to Y16).**
 
 ### Preferences
 ```preference.csv```
@@ -35,3 +35,9 @@ Reachability score:
 2. easily reachable
 
 ![Alt text](img/finger_reachability_code.png?raw=true "Finger reachability code")
+
+## Contact
+For questions and further information, please contact:
+
+- **Damien Brun**, 
+damien.brun (at) ulapland.fi
