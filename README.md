@@ -1,5 +1,10 @@
-# finger-to-key-data
+# cubic-finger-to-key-data
 Cubic Finger-to-Key Preference and Reachability
+
+More information about the study and result analysis are provided in the paper below:
+
+- Brun, D., Gouin-Vallerand, C., & George, S. (2024). Design and evaluation of a versatile text input device for virtual and immersive workspaces. Human–Computer Interaction, 1–46. [https://doi.org/10.1080/07370024.2024.2352705](https://doi.org/10.1080/07370024.2024.2352705)
+
 
 ## Dataset
 A user study was conducted to identify and measure the preferred and reachable key areas from the fingers when the users hold a cubic-shaped device in a diagonal position. The participants (N=22) voluntarily gave their informed consent that their anonymized data will be collected, published and used for research purposes.
@@ -41,5 +46,4 @@ Reachability score:
 ## Contact
 For questions and further information, please contact:
 
-- **Damien Brun**, 
-damien.brun (at) ulapland.fi
+- **Damien Brun**, computer science professor at the Université du Québec à Chicoutimi (UQAC)
